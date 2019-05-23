@@ -27,5 +27,5 @@ usage: primerpython.py [-h] -i INPUT_PATH -n PRIMER_START_NO
 ## Ideas 
 
 Future development could focus on 
-- [] select amplicon regions
-- [] easy changing of PCR parameters
+- [ ] select amplicon regions
+- [ ] easy changing of PCR parameters
