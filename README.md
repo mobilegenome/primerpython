@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/185804041.svg)](https://zenodo.org/badge/latestdoi/185804041)
+
+
 # primerpython
 A wrapper for Primer3 to automatically create PCR primers for locus alignments. 
 
@@ -22,6 +27,9 @@ $ ./primerpython.py
 usage: primerpython.py [-h] -i INPUT_PATH -n PRIMER_START_NO
 ```
 
+## Citation
+
+If you use primerpython for your published research, please consider citing this repository by using the DOI: https://doi.org/10.5281/zenodo.3210632. 
 
 
 ## Ideas 
